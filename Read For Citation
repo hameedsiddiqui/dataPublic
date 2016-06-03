@@ -1,0 +1,14 @@
+One limitation seen among most of the previous methods
+is that they were evaluated under settings that are far from real-life
+scenarios. The reason is that the existing facial expression recognition
+(FER) datasets are mostly pose-based and assume a predefined setup.
+The expressions in these datasets are recorded using a fixed camera
+deployment with a constant background and static ambient settings. In a
+real-life scenario, FER systems are expected to deal with changing ambient
+conditions, dynamic background, varying camera angles, different
+face size, and other human-related variations. Accordingly, in this work,
+three FER datasets are collected over a period of six months, keeping
+in view the limitations of existing datasets. These datasets are collected
+from YouTube, real world talk shows, and real world interviews. The
+most widely used FER methodologies are implemented, and evaluated
+using these datasets to analyze their performance in real-life situations.
